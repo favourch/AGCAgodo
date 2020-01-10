@@ -1,0 +1,30 @@
+f Name-
+l Name - 
+Address 
+Gender -
+Marital Status -
+Occupation -
+Membership Status -
+Phone Number -
+Email -
+State of origin 
+Home Town 
+LGA 
+Deparment -
+
+
+agcagodo@yahoo.com
+
+<th>ID</th>
+					<th>Surname</th>
+          <th>Other Names</th>
+          <th>Gender</th>
+          <th>Dept</th>
+          <th>Membership Status</th>
+          <!--<th>Marital Status</th>
+          <th>Occupation</th>
+          <th>Phone Number</th>
+          <th>E-Mail</th>
+          <th>State</th>
+          <th>LGA</th>
+          <th>Home Town</th>-->
